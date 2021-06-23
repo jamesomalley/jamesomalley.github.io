@@ -1,7 +1,8 @@
-title: James O'Malley # your name (or website title) here
+title: James OMalley # your name (or website title) here
 logo: "/images/KIp3iyOg_400x400.jpg" # your photo (or logo) here
 description: # your text below (remove <br> elements if you don't need line breaks)
-#<br><br>
+Welcome to my portfolio! Here you will find a number of projects I have been working on when OOO, most of which are related to using data science for finance applications, especially technical analysis and cryptocurrency.<br>
+Many of these projects were informed or inspired by tutorials or the work of others and are linked to where applicable.<br>
 <a href="https://www.linkedin.com/in/jamesomalley/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
