@@ -1,51 +1,31 @@
-## Developer Portfolio Landing Page Template
+# Data Science Portfolio by Annie Qurat 
 
-### Introduction
+This portfolio is a compilation of projects I've completed for machine learning, deep learning, data warehousing and data exploration. 
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+## Stand-alone Projects
 
-<img src="images/demo.gif?raw=true"/>
+### MNIST Fashion Images classification
+- Using Binary classification and Multiclass classification using logistic regression, SVR and Decision Trees. 
+- The code can be found [here](https://github.com/AnnieQurat/Image-classification-)
 
-### Installation
+### Urban Sound Classification
+- The problem of identifying sounds is related to the frequency distribution, which was plotted here using waveplot graph and MFCC (Mel Frequency Cepstral Coefficient). These features (MFCC) are extracted and Convolutional neural network (CNN) is trained.
+- The code can be found [here](https://github.com/AnnieQurat/Sound-Classification)
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+### Predicting Car Prices (Part 1)
+- Using Linear Regression, Polynomial transformation, Lasso regularization and SVR
+- The code can be found [here](https://github.com/AnnieQurat/Machine-Learning-Predicting-Car-Prices-Part-1)
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+### Predicting Car Prices (Part 2)
+- Using KNN Regressor, Decision Tree Regressor, Ensemble Bagging Regressor and Random Forest Regressor
+- The code can be found [here](https://github.com/AnnieQurat/Machine-Learning-Models-for-Prediction)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hand-Signs classification using data from 1995
+- Using classification models: SVM, ANN, Naive Bayes, and Decision Trees
+- The code can be found [here](https://github.com/AnnieQurat/Hand-signs-classification)
 
-### Markdown
+## Personal Projects 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+### Using PyTorch BiLSTM CRF for NER
+- The code can be found [here](https://github.com/AnnieQurat/pytorch-bert-crf-ner)
+- The project is under construction 
