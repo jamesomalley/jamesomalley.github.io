@@ -1,31 +1,46 @@
-# Data Science Portfolio by Annie Qurat 
+# James O'Malley Data Science Portfolio
 
-This portfolio is a compilation of projects I've completed for machine learning, deep learning, data warehousing and data exploration. 
+Hi, welcome to my personal Github. Here you'll find examples of some projects that I've been working on for. 
 
-## Stand-alone Projects
+## Financial Analysis
 
-### MNIST Fashion Images classification
-- Using Binary classification and Multiclass classification using logistic regression, SVR and Decision Trees. 
-- The code can be found [here](https://github.com/AnnieQurat/Image-classification-)
+### Project 1
+- Problem:
+- Data:
+- Methods:
+- Repo:
 
-### Urban Sound Classification
-- The problem of identifying sounds is related to the frequency distribution, which was plotted here using waveplot graph and MFCC (Mel Frequency Cepstral Coefficient). These features (MFCC) are extracted and Convolutional neural network (CNN) is trained.
-- The code can be found [here](https://github.com/AnnieQurat/Sound-Classification)
+### Project 1
+- Problem:
+- Data:
+- Methods:
+- Repo:
 
-### Predicting Car Prices (Part 1)
-- Using Linear Regression, Polynomial transformation, Lasso regularization and SVR
-- The code can be found [here](https://github.com/AnnieQurat/Machine-Learning-Predicting-Car-Prices-Part-1)
+### Project 1
+- Problem:
+- Data:
+- Methods:
+- Repo:
 
-### Predicting Car Prices (Part 2)
-- Using KNN Regressor, Decision Tree Regressor, Ensemble Bagging Regressor and Random Forest Regressor
-- The code can be found [here](https://github.com/AnnieQurat/Machine-Learning-Models-for-Prediction)
+## Technical Analysis 
 
-### Hand-Signs classification using data from 1995
-- Using classification models: SVM, ANN, Naive Bayes, and Decision Trees
-- The code can be found [here](https://github.com/AnnieQurat/Hand-signs-classification)
+### Project 1
+- Problem:
+- Data:
+- Methods:
+- Repo:
 
-## Personal Projects 
+### Project 1
+- Problem:
+- Data:
+- Methods:
+- Repo:
 
-### Using PyTorch BiLSTM CRF for NER
-- The code can be found [here](https://github.com/AnnieQurat/pytorch-bert-crf-ner)
-- The project is under construction 
+
+## Crypto
+
+### Project 1
+- Problem:
+- Data:
+- Methods:
+- Repo:
