@@ -1,11 +1,11 @@
 title: James OMalley # your name (or website title) here
 logo: "/images/KIp3iyOg_400x400.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Thank you for visiting my Github portfolio! Here you will find several projects I've been working on when OOO, mostly related to using data science for financial analysis, stock market technical analysis and cryptocurrency use cases.
   <br><br>
-  Second description 
+  Many of these projects were either informed or inspired by the work of others, so I've linked to those projects where applicable. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.linkedin.com/in/jamesomalleyiv/">View My LinkedIn Profile</a> 
+
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID her
