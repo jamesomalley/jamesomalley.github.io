@@ -4,8 +4,7 @@
 
 ### Trading Projects 
 
-[Trade Signal](/sample_page)
-Workingo n
+- [Trade Signal](/sample_page) Working on an interface that notifies me when a stock my on Robinhood watchlist hits a set of technical analysis criteria. Uses the Robinhood API, Talib and Dash.
 
 
 ---
@@ -13,6 +12,7 @@ Workingo n
 ### Kaggle Projects
 
 - [MLB Engagement](http://example.com/)
+- [Volatility 
 
 ---
 
