@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Trading Projects 
 
-[Project 1 Title](/sample_page)
+[Trade Signal](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,13 +17,10 @@
 
 ---
 
-### Category Name 2
+### Crypto Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Crypto Miner](http://example.com/)
+
 
 ---
 
