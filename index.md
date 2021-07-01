@@ -2,24 +2,24 @@
 
 ---
 
-### Trading Projects 
+### Finance Projects 
 
-- [Trade Signal](/sample_page) Working on an interface that notifies me when a stock my on Robinhood watchlist hits a set of technical analysis criteria. Uses the Robinhood API, Talib and Dash.
+- [Trade Signal](/sample_page) Working on an interface that notifies me when a stock on my Robinhood watchlist hits a set of technical analysis criteria. Uses the Robinhood API, Talib and will in the future incorporate Dash.
 
 
 ---
 
 ### Kaggle Projects
 
-- [MLB Engagement](http://example.com/)
-- [Optiver Realized Volatility Prediction]
+- [MLB Player Digital Engagement Forecasting](https://www.kaggle.com/c/mlb-player-digital-engagement-forecasting/submissions) Working on submission. Will update with results soon.
+- [Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction) Working on submission. Will update with results soon.
 
 ---
 
 ### Crypto Projects
 
-- [Crypto Miner](http://example.com/)
-
+- [How Elon Musk Tweets Impact Bitcoin Price] Analysis using the CausalImpact package in R of impact of Elon Musk tweets on the price of Bitcoin.
+- [Where Did the Money Go?] Analysis looking at potential places from the market correction earlier this year.
 
 ---
 
