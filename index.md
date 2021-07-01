@@ -4,7 +4,7 @@
 
 ### Finance Projects 
 
-- [Trade Signal](/sample_page) Working on an interface that notifies me when a stock on my Robinhood watchlist hits a set of technical analysis criteria. Uses the Robinhood API, Talib and will in the future incorporate Dash.
+- [Trade Signal](https://github.com/jamesomalley/finance/blob/main/tradesignal.py) Working on an interface that notifies me when a stock on my Robinhood watchlist hits a set of technical analysis criteria. Uses the Robinhood API, Talib and will in the future incorporate Dash.
 
 
 ---
