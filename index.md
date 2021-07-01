@@ -18,8 +18,8 @@
 
 ### Crypto Projects
 
-- [How Elon Musk Tweets Impact Bitcoin Price] Analysis using the CausalImpact package in R of impact of Elon Musk tweets on the price of Bitcoin.
-- [Where Did the Money Go?] Analysis looking at potential places from the market correction earlier this year.
+- [How Elon Musk Tweets Impact Crypto Prices](/sample_page) Analysis using the CausalImpact package in R of impact of Elon Musk tweets on the price of Bitcoin.
+- [Where Did the Money Go?](/sample_page) Analysis looking at potential places from the market correction earlier this year.
 
 ---
 
