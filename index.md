@@ -18,7 +18,7 @@
 
 ### Crypto Projects
 
-- [How Elon Musk Tweets Impact Crypto Prices](/sample_page) Analysis using the CausalImpact package in R of impact of Elon Musk tweets on the price of cryptomarkets.
+- [How Catalysts Impact Crypto Prices](/sample_page) Analysis using the CausalImpact package in R of impact of various catalysts (government actions, statements from high-profile people) influence the price of cryptomarkets.
 - [Where Did the Money Go?](/sample_page) Analysis looking at potential places from the market correction earlier this year.
 
 ---
