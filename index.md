@@ -11,7 +11,6 @@
 
 ### Kaggle Projects
 
-- [MLB Player Digital Engagement Forecasting](https://www.kaggle.com/c/mlb-player-digital-engagement-forecasting/submissions) Working on submission. Will update with results soon.
 - [Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction) Working on submission. Will update with results soon.
 
 ---
