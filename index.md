@@ -14,6 +14,12 @@
 - Quoted: [Social Media Metrics Secrets](https://www.amazon.com/Social-Media-Metrics-Secrets-Lovett-ebook/dp/B005CPJSHO/ref=sr_1_3?dchild=1&keywords=social+media+metrics+secrets&qid=1628785401&sr=8-3)
 - Quoted: [You Can Do Anything](https://www.amazon.com/You-Can-Anything-Surprising-Education/dp/031654888X/ref=sr_1_1?dchild=1&keywords=you+can+do+anything+george+anders&qid=1628785471&sr=8-1)
 
+### Previous Speaking Engagements
+- American University
+- Fashion Institute of Technology
+- PRWeek Measurement Workshop
+- Omnicom Emerging Stars
+
 
 
 ---
