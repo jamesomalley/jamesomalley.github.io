@@ -5,7 +5,7 @@
 ### Finance Projects 
 
 - [Portfolio Optimizer](https://github.com/jamesomalley/finance/blob/main/portfolio_optim2.py) A proof of concept of a method to optimize portfolio weighting of various stocks to optimize Sharpe Ratio (measure of return relative to risk). Just numpy and pandas in this one with matplotlib currently for visualizing an Efficient Frontier graph. I'm working on developing ability for user to 
-- [Trade Signal](https://github.com/jamesomalley/finance/blob/main/tradesignal.py) Proof of concept for  an interface that notifies me via email when a stock on a Robinhood watchlist hits a set of technical analysis criteria. Uses the Robinhood API, and Talib.
+- [Trade Signal](https://github.com/jamesomalley/finance/blob/main/tradesignal.py) Proof of concept for  an interface that notifies me via email when a stock on a Robinhood watchlist hits a set of technical analysis criteria. Uses the Robinhood API, and Talib. Considering I cashed out of Robinhood, this might be the end of this particular project, though the signal functionality could be used for other threshold notifications.
 
 ### Publications
 - InformationWeek: [8 Ways to Ensure Data Quality](https://www.informationweek.com/big-data/big-data-analytics/8-ways-to-ensure-data-quality/d/d-id/1322239)
